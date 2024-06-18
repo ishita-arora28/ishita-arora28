@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Ishita Arora👋
+- 👩‍🎓 I'm an incoming master's in Computer Science student at IU Bloomington, looking for internships for summer 2025.
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning NextJS
 
 <!--
 **ishita-arora28/ishita-arora28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
