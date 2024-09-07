@@ -1,5 +1,5 @@
 ## Hi, I'm Ishita Arora👋
-- 👩‍🎓 I'm an incoming master's in Computer Science student at IU Bloomington, looking for internships for summer 2025.
+- 👩‍🎓 I'm a master's in Computer Science student at IU Bloomington, looking for a Software Engineering Intern position for summer 2025.
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning NextJS
 
